@@ -1,4 +1,4 @@
-Soy María Yanet Posada Chavarría
+Soy Maria Yanet Posada Chavarría
 
 Soy desarrolladora de software en formación, enfocada en Backend Development, Full Stack Development e Inteligencia Artificial. Actualmente estoy fortaleciendo mis conocimientos en Java, Spring Boot, bases de datos relacionales, arquitectura de software y desarrollo de soluciones impulsadas por IA.
 
